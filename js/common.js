@@ -1,0 +1,1 @@
+console.log("Application Mbaay Mi chargée");

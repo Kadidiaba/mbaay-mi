@@ -1,0 +1,12 @@
+#annoncesContainer {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+}
